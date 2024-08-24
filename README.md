@@ -44,7 +44,8 @@ plt.show()
 ```
 
 ## Output:
-(https://github.com/Harevasu/Find-the-best-fit-line-using-Least-Squares-Method/blob/main/Screenshot%202024-08-24%20112623.png)
+![image](https://github.com/user-attachments/assets/e638685c-8ccb-4f85-8ca2-3b5c75f7c722)
+
 
 
 ## Result:
